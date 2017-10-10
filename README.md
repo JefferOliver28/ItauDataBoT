@@ -1,2 +1,2 @@
-# CotacaoMonetariaBot
-Chatbot para cotação de algumas moedas estrangeiras para o Real (BRL).
+# DataGovernanceBot
+Chatbot para pesquisa de temas relacionados a governança de dados.
